@@ -1,0 +1,8 @@
+BPL Protocol - C SDK Examples
+=======================================================================
+
+Decode Packet
+-----------------------------------------------------------------------
+
+.. literalinclude:: ../../../C/examples/decodePacketExample.c
+    :language: c

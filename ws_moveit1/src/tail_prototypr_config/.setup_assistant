@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: bpl_bravo_description
+    relative_path: urdf/tail_prototype_example.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/tail_prototype_example.srdf
+  CONFIG:
+    author_name: suthipong
+    author_email: suthipong.mew@gmail.com
+    generated_timestamp: 1681227109

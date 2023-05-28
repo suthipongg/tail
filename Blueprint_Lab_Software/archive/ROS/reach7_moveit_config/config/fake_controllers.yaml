@@ -1,0 +1,17 @@
+controller_list:
+  - name: fake_r7_arm_controller
+    joints:
+      - joint7
+      - joint6
+      - joint5
+      - joint4
+      - joint3
+      - joint2
+  - name: fake_gripper_controller
+    joints:
+      - joint1_1
+      - joint1_2
+
+initial:
+  - group: r7_arm
+    pose: stow

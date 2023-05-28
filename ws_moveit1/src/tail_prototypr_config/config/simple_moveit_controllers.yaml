@@ -1,0 +1,9 @@
+controller_list:
+  - name: arm_position_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - tail_axis_1
+      - tail_axis_2
+      - tail_axis_3

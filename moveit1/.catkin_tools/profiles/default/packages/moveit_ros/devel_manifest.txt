@@ -1,0 +1,2 @@
+moveit/moveit_ros/moveit_ros
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_ros/cmake.lock /home/music/Desktop/bravo/moveit1/devel/./cmake.lock

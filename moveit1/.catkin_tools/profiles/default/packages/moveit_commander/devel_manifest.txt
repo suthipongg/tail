@@ -1,0 +1,8 @@
+moveit/moveit_commander
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_commander/cmake.lock /home/music/Desktop/bravo/moveit1/devel/./cmake.lock
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_commander/share/moveit_commander/cmake/moveit_commanderConfig-version.cmake /home/music/Desktop/bravo/moveit1/devel/share/moveit_commander/cmake/moveit_commanderConfig-version.cmake
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_commander/share/moveit_commander/cmake/moveit_commanderConfig.cmake /home/music/Desktop/bravo/moveit1/devel/share/moveit_commander/cmake/moveit_commanderConfig.cmake
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_commander/lib/moveit_commander/cmake.lock /home/music/Desktop/bravo/moveit1/devel/lib/moveit_commander/cmake.lock
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_commander/lib/moveit_commander/moveit_commander_cmdline.py /home/music/Desktop/bravo/moveit1/devel/lib/moveit_commander/moveit_commander_cmdline.py
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_commander/lib/pkgconfig/moveit_commander.pc /home/music/Desktop/bravo/moveit1/devel/lib/pkgconfig/moveit_commander.pc
+/home/music/Desktop/bravo/moveit1/devel/.private/moveit_commander/lib/python3/dist-packages/moveit_commander/__init__.py /home/music/Desktop/bravo/moveit1/devel/lib/python3/dist-packages/moveit_commander/__init__.py
