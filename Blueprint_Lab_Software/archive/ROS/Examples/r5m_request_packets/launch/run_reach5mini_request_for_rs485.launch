@@ -1,6 +1,0 @@
-<launch>
-  <!-- Loading multiple r5m_request_packets_rs485 scripts. Usage on next line -->
-  <!-- node name="r5m_request_packets_rs485_#" pkg="r5m_request_packets" type="r5m_request_data_rs485.py" args="R5M_instance_number" /-->
-  <node name="r5m_request_packets_rs485_0" pkg="r5m_request_packets" type="r5m_request_data_rs485.py" args="0"/>
-  <!-- node name="r5m_request_packets_rs485_1" pkg="r5m_request_packets" type="r5m_request_data_rs485.py" args="1"/-->
-</launch>

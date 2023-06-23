@@ -1,5 +1,0 @@
-moveit_resources/prbt_moveit_config
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_prbt_moveit_config/cmake.lock /home/music/Desktop/bravo/moveit1/devel/./cmake.lock
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_prbt_moveit_config/share/moveit_resources_prbt_moveit_config/cmake/moveit_resources_prbt_moveit_configConfig-version.cmake /home/music/Desktop/bravo/moveit1/devel/share/moveit_resources_prbt_moveit_config/cmake/moveit_resources_prbt_moveit_configConfig-version.cmake
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_prbt_moveit_config/share/moveit_resources_prbt_moveit_config/cmake/moveit_resources_prbt_moveit_configConfig.cmake /home/music/Desktop/bravo/moveit1/devel/share/moveit_resources_prbt_moveit_config/cmake/moveit_resources_prbt_moveit_configConfig.cmake
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_prbt_moveit_config/lib/pkgconfig/moveit_resources_prbt_moveit_config.pc /home/music/Desktop/bravo/moveit1/devel/lib/pkgconfig/moveit_resources_prbt_moveit_config.pc

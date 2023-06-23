@@ -1,7 +1,0 @@
-bplprotocol
-===========
-
-.. toctree::
-   :maxdepth: 4
-
-   bplprotocol

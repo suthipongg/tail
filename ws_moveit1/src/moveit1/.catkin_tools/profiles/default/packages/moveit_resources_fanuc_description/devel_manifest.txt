@@ -1,5 +1,0 @@
-moveit_resources/fanuc_description
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_fanuc_description/cmake.lock /home/music/Desktop/bravo/moveit1/devel/./cmake.lock
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/cmake/moveit_resources_fanuc_descriptionConfig.cmake /home/music/Desktop/bravo/moveit1/devel/share/moveit_resources_fanuc_description/cmake/moveit_resources_fanuc_descriptionConfig.cmake
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/cmake/moveit_resources_fanuc_descriptionConfig-version.cmake /home/music/Desktop/bravo/moveit1/devel/share/moveit_resources_fanuc_description/cmake/moveit_resources_fanuc_descriptionConfig-version.cmake
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources_fanuc_description/lib/pkgconfig/moveit_resources_fanuc_description.pc /home/music/Desktop/bravo/moveit1/devel/lib/pkgconfig/moveit_resources_fanuc_description.pc

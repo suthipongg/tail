@@ -1,2 +1,0 @@
-moveit/moveit_planners/moveit_planners
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_planners/cmake.lock /home/music/Desktop/bravo/moveit1/devel/./cmake.lock

@@ -1,7 +1,0 @@
-geometric_shapes
-/home/music/Desktop/bravo/moveit1/devel/.private/geometric_shapes/cmake.lock /home/music/Desktop/bravo/moveit1/devel/./cmake.lock
-/home/music/Desktop/bravo/moveit1/devel/.private/geometric_shapes/share/geometric_shapes/cmake/geometric_shapesConfig-version.cmake /home/music/Desktop/bravo/moveit1/devel/share/geometric_shapes/cmake/geometric_shapesConfig-version.cmake
-/home/music/Desktop/bravo/moveit1/devel/.private/geometric_shapes/share/geometric_shapes/cmake/geometric_shapesConfig.cmake /home/music/Desktop/bravo/moveit1/devel/share/geometric_shapes/cmake/geometric_shapesConfig.cmake
-/home/music/Desktop/bravo/moveit1/devel/.private/geometric_shapes/lib/libgeometric_shapes.so.0.7.4 /home/music/Desktop/bravo/moveit1/devel/lib/libgeometric_shapes.so.0.7.4
-/home/music/Desktop/bravo/moveit1/devel/.private/geometric_shapes/lib/libgeometric_shapes.so /home/music/Desktop/bravo/moveit1/devel/lib/libgeometric_shapes.so
-/home/music/Desktop/bravo/moveit1/devel/.private/geometric_shapes/lib/pkgconfig/geometric_shapes.pc /home/music/Desktop/bravo/moveit1/devel/lib/pkgconfig/geometric_shapes.pc

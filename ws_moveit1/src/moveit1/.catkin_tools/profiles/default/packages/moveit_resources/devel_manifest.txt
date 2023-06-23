@@ -1,2 +1,0 @@
-moveit_resources/moveit_resources
-/home/music/Desktop/bravo/moveit1/devel/.private/moveit_resources/cmake.lock /home/music/Desktop/bravo/moveit1/devel/./cmake.lock
