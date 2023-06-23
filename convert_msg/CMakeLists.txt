@@ -29,7 +29,3 @@ target_link_libraries(
   joint_state_to_pos_array
   ${catkin_LIBRARIES}
 )
-  
-# add_dependencies(
-#   # joint_state_to_pos_array
-# )
